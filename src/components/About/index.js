@@ -6,7 +6,7 @@ function About() {
   return (
     <section className="my-5" >
       <h1 id="about">Full Stack Developer</h1>
-      <img src={profileImage} className="my-2" style={{ width: "10%" }} alt="cover" />
+      <img src={profileImage} className="my-2" style={{ width: "20%" }} alt="cover" />
       <div className="my-2">
         <p>
             Hello my name is Courtez Cannady. I am a Full Stack Developer with Experience in 
