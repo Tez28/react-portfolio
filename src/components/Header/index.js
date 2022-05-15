@@ -25,7 +25,7 @@ function Header () {
         <div>
             <nav className="navbar">
                 <div className="navbar-brand">
-                    <a className="navbar-git" rel="noreferrer" target="_blank" href="https://github.com/Tez28" >
+                    <a className="navbar-item" rel="noreferrer" target="_blank" href="https://github.com/Tez28" >
                         <span className="content is-large" > Courtez M. Cannady</span>
                     </a>
                 </div>
