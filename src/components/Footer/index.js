@@ -9,7 +9,7 @@ function Footer() {
                     <a href="https://github.com/Tez28" target="_blank" rel="noreferrer" >
                         Courtez M. Cannady
                     </a>
-                    <a href="www.linkedin.com/in/courtez-cannady-a8588a108" target="_blank" rel="noreferrer" >
+                    <a href="https://www.linkedin.com/in/courtez-cannady-a8588a108" target="_blank" rel="noreferrer" >
                         LinkedIn
                     </a>
                 </p>
