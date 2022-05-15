@@ -5,10 +5,10 @@ function About() {
 
   return (
     <section className="my-5" >
-      <h1 id="about">Full Stack Developer</h1>
-      <img src={profileImage} className="my-2" style={{ width: "20%" }} alt="cover" />
+      <h1 id="about" className='"content is-medium'>Full Stack Developer and Solutions Architect</h1>
+      <img src={profileImage} className="my-pic" style={{ width: "20%" }} alt="cover" />
       <div className="my-2">
-        <p>
+        <p className="content">
             Hello my name is Courtez Cannady. I am a Full Stack Developer with Experience in 
             systems engineering and design patterns. After serving in the U.S. Marine Corps I
             went on to earn a bachelors degree in I.T. Management, AWS Certifications such as 
