@@ -54,6 +54,16 @@ const projects = [
   },
   {
     id: 5,
+    title: "Neighbor Good",
+    languages: "React, React Bootstrap, Styled Components,",
+    packages: " Apollo, GraphQl, MongoDb, Node/Express",
+    image: "../../assets/projects/neighbor.png",
+    description: "In need of help any task small or large, just ask your neighbor",
+    repo: "https://github.com/Jasonwesleysmith/neighbor-good",
+    live: "https://project-3-neighbor-good.herokuapp.com/",
+  },
+  {
+    id: 6,
     title: "Carpe The Day",
     languages: "HTML, CSS and JavaScript",
     packages: "N/A",
