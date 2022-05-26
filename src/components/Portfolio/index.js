@@ -62,16 +62,6 @@ const projects = [
     repo: "https://github.com/Jasonwesleysmith/neighbor-good",
     live: "https://project-3-neighbor-good.herokuapp.com/",
   },
-  {
-    id: 6,
-    title: "Carpe The Day",
-    languages: "HTML, CSS and JavaScript",
-    packages: "N/A",
-    image: "../../assets/projects/carpetheday.png",
-    description: "Seize the day with this daily calendar tracker",
-    repo: "https://github.com/Tez28/carpe-the-day",
-    live: "https://tez28.github.io/carpe-the-day/",
-  },
 ];
 
 function Portfolio() {
